@@ -1,6 +1,2 @@
-/dev/
-/proc/
-/sys/
-/mnt/
-/data/
-
+/proc/cpuinfo
+/system/
