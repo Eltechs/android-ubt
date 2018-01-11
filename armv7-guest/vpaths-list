@@ -1,2 +1,4 @@
 /proc/cpuinfo
-/system/
+/system/lib/libEGL.so
+/system/lib/libGLESv1_CM.so
+/system/lib/libGLESv2.so
